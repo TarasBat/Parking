@@ -1,0 +1,7 @@
+C:\Users\Tapac\source\repos\Parking\Parking\bin\Debug\Parking.exe.config
+C:\Users\Tapac\source\repos\Parking\Parking\bin\Debug\Parking.exe
+C:\Users\Tapac\source\repos\Parking\Parking\bin\Debug\Parking.pdb
+C:\Users\Tapac\source\repos\Parking\Parking\obj\Debug\Parking.csprojAssemblyReference.cache
+C:\Users\Tapac\source\repos\Parking\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+C:\Users\Tapac\source\repos\Parking\Parking\obj\Debug\Parking.exe
+C:\Users\Tapac\source\repos\Parking\Parking\obj\Debug\Parking.pdb
